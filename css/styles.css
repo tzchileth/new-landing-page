@@ -81,6 +81,10 @@ body {
     color: #E5E7EB;
 }
 
+.header>.second-row>.left>.button-row {
+    display: flex;
+}
+
 .header>.second-row>.left>.button-row>button,
 .fourth-section>.right>button {
     background: #3882F6;
